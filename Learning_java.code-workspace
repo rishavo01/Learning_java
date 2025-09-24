@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Java Data Types"
+		},
+		{
+			"path": "../Java Loops"
+		},
+		{
+			"path": "../Java Operators"
+		},
+		{
+			"path": "../Conditional Statements"
+		}
+	],
+	"settings": {}
+}
